@@ -2,7 +2,7 @@ Esse é o meu primeiro Commit
 Essas linhas foram inseridas pelo prompt de comandos do Windows.
 Usei o comando notepad primeiro-commit.txt
 
-Salveiesse arquivo txt em disco local.
+Salvei esse arquivo txt em disco local.
 No prompt de comandos do Windows executei os seguintes comandos para sincronizar as atualizações com o repositorio do Github:
 git status
 git add primeiro-commit.txt
